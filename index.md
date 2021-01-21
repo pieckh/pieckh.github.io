@@ -4,4 +4,4 @@ Hier kann man eine Probe Präsentation mit zwei annotierten Bildern sehen [Präs
 
 Der Link ist: [https://storiiies.cogapp.com/viewer?manifest=https://pieckh.github.io/manifest_Postkarte_Test.json] (https://storiiies.cogapp.com/viewer?manifest=https://pieckh.github.io/manifest_Postkarte_Test.json)
 
-<iframe width="100%" height="600" src="https://storiiies.cogapp.com/viewer?manifest=https://pieckh.github.io/manifest_Postkarte_Test.json?embed=true" title="Postkarte_Gasthaus_Krone"></iframe>
+<iframe width="300%" height="300" src="https://storiiies.cogapp.com/viewer?manifest=https://pieckh.github.io/manifest_Postkarte_Test.json?embed=true" title="Postkarte_Gasthaus_Krone"></iframe>
