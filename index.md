@@ -1,7 +1,7 @@
-## Testseite für Multi Pictures Storiiies
+## Test Multi Pictures Storiiies
 
-Hier kann man eine Probe Präsentation mit zwei annotierten Bildern sehen [Präsentation](https://storiiies.cogapp.com/viewer?manifest=https://pieckh.github.io/manifest_Postkarte_Test.json) 
+A test version of a two picture storiiies presentation [presentation](https://storiiies.cogapp.com/viewer?manifest=https://pieckh.github.io/manifest_Postkarte_Test.json) 
 
-Der Link ist: [https://storiiies.cogapp.com/viewer?manifest=https://pieckh.github.io/manifest_Postkarte_Test.json] (https://storiiies.cogapp.com/viewer?manifest=https://pieckh.github.io/manifest_Postkarte_Test.json)
+The link is: https://storiiies.cogapp.com/viewer?manifest=https://pieckh.github.io/manifest_Postkarte_Test.json 
 
 <iframe width="300%" height="300" src="https://storiiies.cogapp.com/viewer?manifest=https://pieckh.github.io/manifest_Postkarte_Test.json?embed=true" title="Postkarte_Gasthaus_Krone"></iframe>
