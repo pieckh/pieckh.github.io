@@ -26,7 +26,7 @@
             {
                "@id":"https://storiiies-images.cogapp.com/iiif/2/1611144742861PostkarteEssig2verso20201209175818.ptif/canvas/c0",
                "label":{
-                  "@value":"Postkarte_Gasthaus_Krone\npieckh\n\n\n\n",
+                  "@value":"Postkarte von 1918: Ansicht Whyl am Kaiserstuhl",
                   "@language":"en"
                },
                "@context":"http://iiif.io/api/presentation/2/context.json",
@@ -62,7 +62,7 @@
                {
                  "@id":"https://storiiies-images.cogapp.com/iiif/2/1611146333601PostkarteEssig2recto20201209180340.ptif/canvas/c0",
                  "label":{
-                    "@value":"Postkarte_Gasthaus_Krone21\n by pieckh\n\n \n\n ",
+                    "@value":"Postkarte von 1918: Fritz Klipfel an Hilde Essig",
                     "@language":"en"
                  },
                  "@context":"http://iiif.io/api/presentation/2/context.json",
