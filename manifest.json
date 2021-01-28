@@ -1,6 +1,6 @@
 {
 	"@context": "http://iiif.io/api/presentation/2/context.json",
-	"@id": "http://6c8c401b-f112-40ab-b2d6-186797347d97",
+	"@id": "http://pieckh.github.io/manifest.json",
 	"@type": "sc:Manifest",
 	"label": "firsttest",
 	"metadata": [],
