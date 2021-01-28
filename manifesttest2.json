@@ -1,0 +1,191 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://6c8c401b-f112-40ab-b2d6-186797347d97",
+	"@type": "sc:Manifest",
+	"label": "firsttest",
+	"metadata": [],
+	"description": [
+		{
+			"@value": "A collection of pictures to test manifest editing",
+			"@language": "en"
+		}
+	],
+	"license": "https://creativecommons.org/licenses/by/3.0/",
+	"attribution": "[Click to edit attribution]",
+	"sequences": [
+		{
+			"@id": "http://5505cbc6-c5b0-4909-acea-2ca83411a4d0",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://5b10678f-c7b0-4a71-9aca-2e36c4ee6771",
+					"@type": "sc:Canvas",
+					"label": "recto, Notice board",
+					"height": 2268,
+					"width": 4032,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://abd8658d-c8be-4b29-82cb-db5b4de52c15",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.archivelab.org/iiif/20201120-152424/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.archivelab.org/iiif/20201120-152424",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json"
+									]
+								},
+								"height": 2268,
+								"width": 4032
+							},
+							"on": "http://5b10678f-c7b0-4a71-9aca-2e36c4ee6771"
+						}
+					],
+					"otherContent": [
+	    {
+	        "@id": "https://ia601408.us.archive.org/15/items/annotations1/annotations1.json",
+	        "@type": "sc:AnnotationList",
+	        "label": "My fantastic annotations"
+	    }
+		],
+					"related": ""
+				},
+				{
+					"@id": "http://da140ca6-3797-43a3-b282-8640746fcf23",
+					"@type": "sc:Canvas",
+					"label": "recto, dog",
+					"height": 4275,
+					"width": 4941,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://84e5b494-58fb-4888-978c-2719088e7897",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://images.britishart.yale.edu/iiif/2/9e08d901-a26b-4acb-a768-28f90a062adf/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://images.britishart.yale.edu/iiif/2/9e08d901-a26b-4acb-a768-28f90a062adf",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg",
+												"tif",
+												"gif",
+												"png"
+											],
+											"maxArea": 400000000,
+											"qualities": [
+												"bitonal",
+												"default",
+												"gray",
+												"color"
+											],
+											"supports": [
+												"sizeByW",
+												"regionByPx",
+												"sizeByWhListed",
+												"cors",
+												"regionSquare",
+												"sizeByDistortedWh",
+												"sizeAboveFull",
+												"canonicalLinkHeader",
+												"sizeByConfinedWh",
+												"sizeByPct",
+												"jsonldMediaType",
+												"regionByPct",
+												"rotationArbitrary",
+												"sizeByH",
+												"baseUriRedirect",
+												"rotationBy90s",
+												"profileLinkHeader",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 4275,
+								"width": 4941
+							},
+							"on": "http://da140ca6-3797-43a3-b282-8640746fcf23"
+						}
+					],
+					"otherContent": [
+	    {
+	        "@id": "http://localhost:8887/annotations2.json",
+	        "@type": "sc:AnnotationList",
+	        "label": "My fantastic annotations"
+	    }
+	],
+		"related": ""
+				},
+				{
+					"@id": "http://9e7564f4-73ff-416a-af08-05d25380dcac",
+					"@type": "sc:Canvas",
+					"label": "recto, castle",
+					"height": 3757,
+					"width": 5471,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://8b03a72b-9861-4b73-ac5e-eb53c8682840",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://ids.si.edu/ids/iiif/CHSDM-317E001E9E352-000001/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://ids.si.edu/ids/iiif/CHSDM-317E001E9E352-000001",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json",
+										{
+											"formats": [
+												"jpg"
+											],
+											"supports": [
+												"sizeByH",
+												"sizeByW",
+												"sizeByForcedWh"
+											]
+										}
+									]
+								},
+								"height": 3757,
+								"width": 5471
+							},
+							"on": "http://9e7564f4-73ff-416a-af08-05d25380dcac"
+						}
+					],
+					"otherContent": [
+    {
+        "@id": "http://localhost:8887/annotations3.json",
+        "@type": "sc:AnnotationList",
+        "label": "My fantastic annotations"
+    }
+],
+					"related": ""
+				}
+			]
+		}
+	],
+	"structures": []
+}
