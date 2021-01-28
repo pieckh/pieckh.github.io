@@ -10,7 +10,7 @@
 "resource": {
 "@type": "cnt:ContentAsText",
 "format": "text/plain",
-"chars": "Das abgebildete Gasthaus Krone befand sich in der ##Straße ##."
+"chars": "NEUE ANNOTATION: DAS IST DAS GASTHAUS KRONE."
 },
 "on": "https://storiiies-images.cogapp.com/iiif/2/1611144742861PostkarteEssig2verso20201209175818.ptif/canvas/c0#xywh=-256.6956381328452,-132.4064221102256,5168.214654282765,3130"
 },
