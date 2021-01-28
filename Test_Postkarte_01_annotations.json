@@ -1,0 +1,51 @@
+{
+"@context": "http://iiif.io/api/presentation/2/context.json",
+"@id": "https://jqz7t23pp9.execute-api.us-east-1.amazonaws.com/devannotation/01e421105b1911eb9d0389daceae8e39/annotations.json",
+"@type": "sc:AnnotationList",
+"resources": [
+{
+"@type": "oa:Annotation",
+"@id": "238ceb805b1911eb9c29d74b3aa50447",
+"motivation": "sc:painting",
+"resource": {
+"@type": "cnt:ContentAsText",
+"format": "text/plain",
+"chars": "Das abgebildete Gasthaus Krone befand sich in der ##Straße ##."
+},
+"on": "https://storiiies-images.cogapp.com/iiif/2/1611144742861PostkarteEssig2verso20201209175818.ptif/canvas/c0#xywh=-256.6956381328452,-132.4064221102256,5168.214654282765,3130"
+},
+{
+"@type": "oa:Annotation",
+"@id": "81520c005b1911eb9c29d74b3aa50447",
+"motivation": "sc:painting",
+"resource": {
+"@type": "cnt:ContentAsText",
+"format": "text/plain",
+"chars": "Im Hintergrund sind Passanten und ein Pferdefuhrwerk zu sehen"
+},
+"on": "https://storiiies-images.cogapp.com/iiif/2/1611144742861PostkarteEssig2verso20201209175818.ptif/canvas/c0#xywh=-22.00498796009661,839.5631878500858,2871.230363490425,1738.888888888889"
+},
+{
+"@type": "oa:Annotation",
+"@id": "3add17105b1911eb9c29d74b3aa50447",
+"motivation": "sc:painting",
+"resource": {
+"@type": "cnt:ContentAsText",
+"format": "text/plain",
+"chars": "Das zweite Motiv zeigt die Brauerei Adolf Bauer."
+},
+"on": "https://storiiies-images.cogapp.com/iiif/2/1611144742861PostkarteEssig2verso20201209175818.ptif/canvas/c0#xywh=-293.84218096049835,2904.727220820623,5168.214654282765,3130"
+},
+{
+"@type": "oa:Annotation",
+"@id": "5a94e6f05b1911eb9c29d74b3aa50447",
+"motivation": "sc:painting",
+"resource": {
+"@type": "cnt:ContentAsText",
+"format": "text/plain",
+"chars": "Sind hier die Inhaber abgebildet ?"
+},
+"on": "https://storiiies-images.cogapp.com/iiif/2/1611144742861PostkarteEssig2verso20201209175818.ptif/canvas/c0#xywh=1394.8863325848797,3983.731727452696,2909.090909090909,1761.818181818182"
+}
+]
+}
