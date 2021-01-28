@@ -54,7 +54,7 @@
                ],
                "otherContent":[
                   {
-                     "@id":"https://jqz7t23pp9.execute-api.us-east-1.amazonaws.com/dev/annotation/01e421105b1911eb9d0389daceae8e39/annotations.json",
+                     "@id":"https://pieckh.github.io/Test_Postkarte_01_annotations.json",
                      "@type":"sc:AnnotationList"
                    }
                  ]
@@ -90,7 +90,7 @@
                  ],
                  "otherContent":[
                     {
-                       "@id":"https://jqz7t23pp9.execute-api.us-east-1.amazonaws.com/dev/annotation/9817a3705b1c11eb8863019331db0faf/annotations.json",
+                       "@id":"https://pieckh.github.io/Test_Postkarte_02_annotations.json",
                        "@type":"sc:AnnotationList"
                }
              ]
