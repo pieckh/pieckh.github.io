@@ -1,0 +1,51 @@
+{
+"@context": "http://iiif.io/api/presentation/2/context.json",
+"@id": "https://jqz7t23pp9.execute-api.us-east-1.amazonaws.com/devannotation/9817a3705b1c11eb8863019331db0faf/annotations.json",
+"@type": "sc:AnnotationList",
+"resources": [
+{
+"@type": "oa:Annotation",
+"@id": "a65656205b1c11eb9c29d74b3aa50447",
+"motivation": "sc:painting",
+"resource": {
+"@type": "cnt:ContentAsText",
+"format": "text/plain",
+"chars": "Feldpost"
+},
+"on": "https://storiiies-images.cogapp.com/iiif/2/1611146333601PostkarteEssig2recto20201209180340.ptif/canvas/c0#xywh=3082.4148606811136,-53.06720846233188,1750.6707946336428,1060.25"
+},
+{
+"@type": "oa:Annotation",
+"@id": "e1722c205b1c11eb9c29d74b3aa50447",
+"motivation": "sc:painting",
+"resource": {
+"@type": "cnt:ContentAsText",
+"format": "text/plain",
+"chars": "Die Adressatin ist:\nz[u] H[änden]\nFräulein \nHilde Essig \nbs Wilhelm Futterer \nOberrotweil "
+},
+"on": "https://storiiies-images.cogapp.com/iiif/2/1611146333601PostkarteEssig2recto20201209180340.ptif/canvas/c0#xywh=1767.223426212603,-144.43034055727318,7002.683178534571,4241"
+},
+{
+"@type": "oa:Annotation",
+"@id": "18fb65805b1d11eb9c29d74b3aa50447",
+"motivation": "sc:painting",
+"resource": {
+"@type": "cnt:ContentAsText",
+"format": "text/plain",
+"chars": "Der Absender ist:\nAbs. [Absender] Lt. [Leutenant] i. Krug Fhr. [?] \nKlipfel \n3. zt. Weisweil \nbs Kenzingen "
+},
+"on": "https://storiiies-images.cogapp.com/iiif/2/1611146333601PostkarteEssig2recto20201209180340.ptif/canvas/c0#xywh=4194.090815273491,-421.2551599587175,3501.3415892672856,2120.5"
+},
+{
+"@type": "oa:Annotation",
+"@id": "228a72d05b1d11eb9c29d74b3aa50447",
+"motivation": "sc:painting",
+"resource": {
+"@type": "cnt:ContentAsText",
+"format": "text/plain",
+"chars": "Poststempel Whyl in Baden, 20. August 1918"
+},
+"on": "https://storiiies-images.cogapp.com/iiif/2/1611146333601PostkarteEssig2recto20201209180340.ptif/canvas/c0#xywh=3984.010319917452,998.9765221878262,3501.3415892672856,2120.5"
+}
+]
+}
