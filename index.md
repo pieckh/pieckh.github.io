@@ -1,9 +1,28 @@
-## Test Multi Pictures Storiiies
-
-A test version of a [two picture storiiies presentation](https://storiiies.cogapp.com/viewer?manifest=https://pieckh.github.io/manifest_Postkarte_Test.json) 
-
-The link is:
-
-[https://storiiies.cogapp.com/viewer?manifest=https://pieckh.github.io/manifest_Postkarte_Test.json](https://storiiies.cogapp.com/viewer?manifest=https://pieckh.github.io/manifest_Postkarte_Test.json) 
-
-<iframe width="150%" height="600" src="https://storiiies.cogapp.com/viewer?manifest=https://pieckh.github.io/manifest_Postkarte_Test.json?embed=true" title="Postkarte_Gasthaus_Krone"></iframe>
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Neue Testseite</title>
+	</head>
+	<body>
+		<nav>
+    		<ul>
+        		<li><a href="/">Home</a></li>
+	        	<li><a href="/about">About</a></li>
+        		<li><a href="/procts">Projekte</a></li>
+        		<li><a href="/blog">Blog</a></li>
+    		</ul>
+		</nav>
+		<div class="container">
+    		<div class="blurb">
+        		<h1>Hi there, dies ist eine Testseite</h1>
+				<p>I'm best known as the horrible cop from <em>A Touch of Evil</em> Don't trust me. <a href="/about">Read more about my life...</a></p>
+    		</div><!-- /.blurb -->
+		</div><!-- /.container -->
+		<footer>
+    		<ul>
+        		<li><a href="mailto:hankquinlanhub@gmail.com">email</a></li>
+        		<li><a href="https://github.com/hankquinlan">github.com/hankquinlan</a></li>
+			</ul>
+		</footer>
+	</body>
+</html>
