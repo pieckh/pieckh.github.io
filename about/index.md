@@ -12,4 +12,3 @@ Hier könnte die Beschreibung der Übung und des Semesterprogramms stehen. Zum B
 * Chraskurs Transkribus
 * Projektarbeit
 
-<iframe width="150%" height="600" src="https://storiiies.cogapp.com/viewer?manifest=https://pieckh.github.io/manifest_Postkarte_Test.json?embed=true" title="Postkarte_Gasthaus_Krone"></iframe>
