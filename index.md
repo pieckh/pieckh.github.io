@@ -9,4 +9,4 @@ title: Projekte Seite
 
 Um solche Objekte geht es im folgenden
 
-![Postkarte](https://storiiies-images.cogapp.com/iiif/2/1611144742861PostkarteEssig2verso20201209175818.ptif/info.json)
+![Postkarte](https://storiiies-images.cogapp.com/iiif/2/1611144742861PostkarteEssig2verso20201209175818.ptif)
