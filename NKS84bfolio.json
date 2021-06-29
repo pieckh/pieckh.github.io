@@ -1,6 +1,6 @@
 {
 	"@context": "http://iiif.io/api/presentation/2/context.json",
-	"@id": "http://88fd3d79-c862-4842-bee0-15195a52e459",
+	"@id": "https://pieckh.github.io/NKS84bfolio.json",
 	"@type": "sc:Manifest",
 	"label": "Medizinische Traktate",
 	"metadata": [],
