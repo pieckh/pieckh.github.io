@@ -1,0 +1,590 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://88fd3d79-c862-4842-bee0-15195a52e459",
+	"@type": "sc:Manifest",
+	"label": "Medizinische Traktate",
+	"metadata": [],
+	"description": [
+		{
+			"@value": "a) De phlebotomia (f. 1: \"1519\"). - b) Probelemata Alberti Magni excerpta de secretis mulierum. - c) Unguenta et pulveres. - d) De urina. - e) Remedia contra vulnera. - f) : Morbi varii et eorum remedia (Ex: Johannes de Ketham: Fasciculus Medicinæ). - g) Similitudo complexionum et elementorum. - h) De phlebotomia",
+			"@language": "en"
+		}
+	],
+	"license": "https://creativecommons.org/publicdomain/mark/1.0/deed.de",
+	"attribution": "Königlich Dänische Bibliothek Kopenhagen",
+	"sequences": [
+		{
+			"@id": "http://c03371da-caa1-423b-b06b-189cdf70d817",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://7d74c6b8-2c03-49d2-a5c1-beb90d3bb9b3",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 0,
+					"width": 0,
+					"images": [],
+					"related": ""
+				},
+				{
+					"@id": "http://92fe6af9-f9f7-4a49-a018-501bc46cc16e",
+					"@type": "sc:Canvas",
+					"label": "01r",
+					"height": 6013,
+					"width": 5225,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://fc6f1246-deeb-4155-a0ec-9a6961465cd4",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "http://kb-images.kb.dk/DAMJP2/online_master_arkiv_6/non-archival/Manus/VMANUS/2009/sep/nks-2_84_b/nks-2_84_b_0001/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "http://kb-images.kb.dk/DAMJP2/online_master_arkiv_6/non-archival/Manus/VMANUS/2009/sep/nks-2_84_b/nks-2_84_b_0001",
+									"profile": [
+										"http://iiif.io/api/image/2/level1.json",
+										{
+											"formats": [
+												"jpg"
+											],
+											"qualities": [
+												"native",
+												"color",
+												"gray"
+											],
+											"supports": [
+												"regionByPct",
+												"regionSquare",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"sizeAboveFull",
+												"rotationBy90s",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 6013,
+								"width": 5225
+							},
+							"on": "http://92fe6af9-f9f7-4a49-a018-501bc46cc16e"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://27555e3f-5f2f-42d0-b329-74e85f7fa572",
+					"@type": "sc:Canvas",
+					"label": "01v",
+					"height": 6230,
+					"width": 5225,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://2fdd070f-d85e-4baf-b4a2-a580916c38ad",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "http://kb-images.kb.dk/DAMJP2/online_master_arkiv_6/non-archival/Manus/VMANUS/2009/sep/nks-2_84_b/nks-2_84_b_0002/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "http://kb-images.kb.dk/DAMJP2/online_master_arkiv_6/non-archival/Manus/VMANUS/2009/sep/nks-2_84_b/nks-2_84_b_0002",
+									"profile": [
+										"http://iiif.io/api/image/2/level1.json",
+										{
+											"formats": [
+												"jpg"
+											],
+											"qualities": [
+												"native",
+												"color",
+												"gray"
+											],
+											"supports": [
+												"regionByPct",
+												"regionSquare",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"sizeAboveFull",
+												"rotationBy90s",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 6230,
+								"width": 5225
+							},
+							"on": "http://27555e3f-5f2f-42d0-b329-74e85f7fa572"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://4622b366-210c-4b0f-88ab-d09d3f65dd43",
+					"@type": "sc:Canvas",
+					"label": "02r",
+					"height": 6295,
+					"width": 5225,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://bc152754-4036-45a4-bd75-974f11e85bec",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "http://kb-images.kb.dk/DAMJP2/online_master_arkiv_6/non-archival/Manus/VMANUS/2009/sep/nks-2_84_b/nks-2_84_b_0003/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "http://kb-images.kb.dk/DAMJP2/online_master_arkiv_6/non-archival/Manus/VMANUS/2009/sep/nks-2_84_b/nks-2_84_b_0003",
+									"profile": [
+										"http://iiif.io/api/image/2/level1.json",
+										{
+											"formats": [
+												"jpg"
+											],
+											"qualities": [
+												"native",
+												"color",
+												"gray"
+											],
+											"supports": [
+												"regionByPct",
+												"regionSquare",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"sizeAboveFull",
+												"rotationBy90s",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 6295,
+								"width": 5225
+							},
+							"on": "http://4622b366-210c-4b0f-88ab-d09d3f65dd43"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://de2b2c58-e58e-4986-b3a3-4b1c77e5017f",
+					"@type": "sc:Canvas",
+					"label": "02v",
+					"height": 6331,
+					"width": 5225,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://ef9a37c2-6379-4f77-a7af-30f83df74e16",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "http://kb-images.kb.dk/DAMJP2/online_master_arkiv_6/non-archival/Manus/VMANUS/2009/sep/nks-2_84_b/nks-2_84_b_0004/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "http://kb-images.kb.dk/DAMJP2/online_master_arkiv_6/non-archival/Manus/VMANUS/2009/sep/nks-2_84_b/nks-2_84_b_0004",
+									"profile": [
+										"http://iiif.io/api/image/2/level1.json",
+										{
+											"formats": [
+												"jpg"
+											],
+											"qualities": [
+												"native",
+												"color",
+												"gray"
+											],
+											"supports": [
+												"regionByPct",
+												"regionSquare",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"sizeAboveFull",
+												"rotationBy90s",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 6331,
+								"width": 5225
+							},
+							"on": "http://de2b2c58-e58e-4986-b3a3-4b1c77e5017f"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://9007b00d-4845-46e1-9357-94cac6a4c5e7",
+					"@type": "sc:Canvas",
+					"label": "03r",
+					"height": 6230,
+					"width": 5225,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://207a53b2-4dda-4810-9633-83f158188c0a",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "http://kb-images.kb.dk/DAMJP2/online_master_arkiv_6/non-archival/Manus/VMANUS/2009/sep/nks-2_84_b/nks-2_84_b_0005/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "http://kb-images.kb.dk/DAMJP2/online_master_arkiv_6/non-archival/Manus/VMANUS/2009/sep/nks-2_84_b/nks-2_84_b_0005",
+									"profile": [
+										"http://iiif.io/api/image/2/level1.json",
+										{
+											"formats": [
+												"jpg"
+											],
+											"qualities": [
+												"native",
+												"color",
+												"gray"
+											],
+											"supports": [
+												"regionByPct",
+												"regionSquare",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"sizeAboveFull",
+												"rotationBy90s",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 6230,
+								"width": 5225
+							},
+							"on": "http://9007b00d-4845-46e1-9357-94cac6a4c5e7"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://a034799f-a3ee-4e3f-9d1c-fde39c27df8c",
+					"@type": "sc:Canvas",
+					"label": "03v",
+					"height": 6173,
+					"width": 5225,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://e0443357-f219-4e83-ac3d-6d3e14829611",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "http://kb-images.kb.dk/DAMJP2/online_master_arkiv_6/non-archival/Manus/VMANUS/2009/sep/nks-2_84_b/nks-2_84_b_0006/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "http://kb-images.kb.dk/DAMJP2/online_master_arkiv_6/non-archival/Manus/VMANUS/2009/sep/nks-2_84_b/nks-2_84_b_0006",
+									"profile": [
+										"http://iiif.io/api/image/2/level1.json",
+										{
+											"formats": [
+												"jpg"
+											],
+											"qualities": [
+												"native",
+												"color",
+												"gray"
+											],
+											"supports": [
+												"regionByPct",
+												"regionSquare",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"sizeAboveFull",
+												"rotationBy90s",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 6173,
+								"width": 5225
+							},
+							"on": "http://a034799f-a3ee-4e3f-9d1c-fde39c27df8c"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://4136846a-eae1-41ab-a36d-0623543eb7b7",
+					"@type": "sc:Canvas",
+					"label": "04r",
+					"height": 6668,
+					"width": 5225,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://1b4ac5dc-53fe-44f3-a953-4f61b3586b7e",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "http://kb-images.kb.dk/DAMJP2/online_master_arkiv_6/non-archival/Manus/VMANUS/2009/sep/nks-2_84_b/nks-2_84_b_0007/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "http://kb-images.kb.dk/DAMJP2/online_master_arkiv_6/non-archival/Manus/VMANUS/2009/sep/nks-2_84_b/nks-2_84_b_0007",
+									"profile": [
+										"http://iiif.io/api/image/2/level1.json",
+										{
+											"formats": [
+												"jpg"
+											],
+											"qualities": [
+												"native",
+												"color",
+												"gray"
+											],
+											"supports": [
+												"regionByPct",
+												"regionSquare",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"sizeAboveFull",
+												"rotationBy90s",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 6668,
+								"width": 5225
+							},
+							"on": "http://4136846a-eae1-41ab-a36d-0623543eb7b7"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://b6741a08-5f07-46fd-ab08-65e19228b298",
+					"@type": "sc:Canvas",
+					"label": "04v",
+					"height": 6572,
+					"width": 5225,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://00c3afef-52f9-4377-810a-4a8a27ea6f08",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "http://kb-images.kb.dk/DAMJP2/online_master_arkiv_6/non-archival/Manus/VMANUS/2009/sep/nks-2_84_b/nks-2_84_b_0008/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "http://kb-images.kb.dk/DAMJP2/online_master_arkiv_6/non-archival/Manus/VMANUS/2009/sep/nks-2_84_b/nks-2_84_b_0008",
+									"profile": [
+										"http://iiif.io/api/image/2/level1.json",
+										{
+											"formats": [
+												"jpg"
+											],
+											"qualities": [
+												"native",
+												"color",
+												"gray"
+											],
+											"supports": [
+												"regionByPct",
+												"regionSquare",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"sizeAboveFull",
+												"rotationBy90s",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 6572,
+								"width": 5225
+							},
+							"on": "http://b6741a08-5f07-46fd-ab08-65e19228b298"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://d42f7183-d2a5-4bbf-b2e5-63261b47b4b8",
+					"@type": "sc:Canvas",
+					"label": "05r",
+					"height": 6947,
+					"width": 5225,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://2ad2d29f-06ce-4614-b9ae-958623de16e6",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "http://kb-images.kb.dk/DAMJP2/online_master_arkiv_6/non-archival/Manus/VMANUS/2009/sep/nks-2_84_b/nks-2_84_b_0009/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "http://kb-images.kb.dk/DAMJP2/online_master_arkiv_6/non-archival/Manus/VMANUS/2009/sep/nks-2_84_b/nks-2_84_b_0009",
+									"profile": [
+										"http://iiif.io/api/image/2/level1.json",
+										{
+											"formats": [
+												"jpg"
+											],
+											"qualities": [
+												"native",
+												"color",
+												"gray"
+											],
+											"supports": [
+												"regionByPct",
+												"regionSquare",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"sizeAboveFull",
+												"rotationBy90s",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 6947,
+								"width": 5225
+							},
+							"on": "http://d42f7183-d2a5-4bbf-b2e5-63261b47b4b8"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://04d231ac-459b-4a00-b9cd-756b9bb506c4",
+					"@type": "sc:Canvas",
+					"label": "05v",
+					"height": 7029,
+					"width": 5225,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://07a50023-6cdc-46cb-9450-bcf84e127fbf",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "http://kb-images.kb.dk/DAMJP2/online_master_arkiv_6/non-archival/Manus/VMANUS/2009/sep/nks-2_84_b/nks-2_84_b_0010/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "http://kb-images.kb.dk/DAMJP2/online_master_arkiv_6/non-archival/Manus/VMANUS/2009/sep/nks-2_84_b/nks-2_84_b_0010",
+									"profile": [
+										"http://iiif.io/api/image/2/level1.json",
+										{
+											"formats": [
+												"jpg"
+											],
+											"qualities": [
+												"native",
+												"color",
+												"gray"
+											],
+											"supports": [
+												"regionByPct",
+												"regionSquare",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"sizeAboveFull",
+												"rotationBy90s",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 7029,
+								"width": 5225
+							},
+							"on": "http://04d231ac-459b-4a00-b9cd-756b9bb506c4"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://ddeabbf8-4176-4d0f-a9d6-bf38d9b616b1",
+					"@type": "sc:Canvas",
+					"label": "06r",
+					"height": 6732,
+					"width": "0",
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://e015063b-3d7b-42a0-8df0-8597160c2a34",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "http://kb-images.kb.dk/DAMJP2/online_master_arkiv_6/non-archival/Manus/VMANUS/2009/sep/nks-2_84_b/nks-2_84_b_0011/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "http://kb-images.kb.dk/DAMJP2/online_master_arkiv_6/non-archival/Manus/VMANUS/2009/sep/nks-2_84_b/nks-2_84_b_0011",
+									"profile": [
+										"http://iiif.io/api/image/2/level1.json",
+										{
+											"formats": [
+												"jpg"
+											],
+											"qualities": [
+												"native",
+												"color",
+												"gray"
+											],
+											"supports": [
+												"regionByPct",
+												"regionSquare",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"sizeAboveFull",
+												"rotationBy90s",
+												"mirroring"
+											]
+										}
+									]
+								},
+								"height": 6732,
+								"width": 5225
+							},
+							"on": "http://ddeabbf8-4176-4d0f-a9d6-bf38d9b616b1"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	],
+	"structures": [],
+	"viewingDirection": "left-to-right"
+}
