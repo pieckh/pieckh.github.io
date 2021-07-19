@@ -1,9 +1,9 @@
 {
    "@context":"http://iiif.io/api/presentation/2/context.json",
-   "@id":"https://jqz7t23pp9.execute-api.us-east-1.amazonaws.com/dev/manifest/eaa475a0e8c511ebbb23adcbf3ca1618/manifest.json",
+   "@id":"https://pieckh.github.io/Cod14034_manifest.json",
    "@type":"sc:Manifest",
    "label":{
-      "@value":"Cod14034_003r",
+      "@value":"Harnrad und erläuternder Traktat aus: Fasciculus medicine. Wien, Österreichische Nationalbibliothek, Cod. 14034",
       "@language":"en"
    },
    "metadata":[
@@ -26,7 +26,7 @@
            {
               "@id":"https://storiiies-images.cogapp.com/iiif/2/1625946509308Cod14034002v.ptif/canvas/c0",
               "label":{
-                 "@value":"Cod14034_002v\n by pieckh\n\n \n\n ",
+                 "@value":"002v",
                  "@language":"en"
               },
               "@context":"http://iiif.io/api/presentation/2/context.json",
@@ -62,7 +62,7 @@
             {
                "@id":"https://storiiies-images.cogapp.com/iiif/2/1626722037973Cod14034003r.ptif/canvas/c0",
                "label":{
-                  "@value":"Cod14034_003r\npieckh\n\n\n\n",
+                  "@value":"003r",
                   "@language":"en"
                },
                "@context":"http://iiif.io/api/presentation/2/context.json",
